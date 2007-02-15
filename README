@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1799
+
+This script provides syntax highlighting for the configuration files of the Polyhedra database.
+For more information about Polyhedra, see: http://www.enea.com/templates/Extension____259.aspx
+
+See also vimscript#1782: Polyhedra CL syntax
